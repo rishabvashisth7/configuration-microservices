@@ -3,8 +3,8 @@ spring:
     name: "food-service"
   datasource:
     url: jdbc:mysql://localhost:3306/food-service
-    username: root
-    password: root
+    username: "{cipher}ab57f6a6fce02d57126aa89d83085fce682247541220bd7fe99f5827838f3e69"
+    password: "{cipher}ab57f6a6fce02d57126aa89d83085fce682247541220bd7fe99f5827838f3e69"
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     database-platform: org.hibernate.dialect.MySQL8Dialect
