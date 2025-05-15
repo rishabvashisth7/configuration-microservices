@@ -5,4 +5,4 @@ info:
   app:
     name: "Food Service"
     description: "This is Food Service production. Ready to serve users."
-    version: "1.0 Production"
+    version: "{cipher}dcda0b9031d58f805bd440fbd9e06c262f69b2b49ae1fa7da6cd751e4aac63ba288e643a4a4bdd6c93af9b5dcfc4958c"
